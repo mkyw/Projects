@@ -1,0 +1,1 @@
+Some projects I am currently working on to practice machine learning in image recognition and more.
